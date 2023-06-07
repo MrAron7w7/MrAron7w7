@@ -16,12 +16,12 @@
 <div align="center">
   <h3>🛠️ languages: </h3>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="60" height="60"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="60" height="60"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="60" height="60"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="60" height="60"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="60" height="40"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="80" height="80"/&nbsp>
+    <img src="hhttps://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
   </div>
 </div>
 
