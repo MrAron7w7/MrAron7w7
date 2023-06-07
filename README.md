@@ -29,5 +29,5 @@
 
 ### 📊My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrAron7w7&theme=gruvbox-duo&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrAron7w7&theme=gruvbox-duo&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=750)](https://git.io/streak-stats)
 
