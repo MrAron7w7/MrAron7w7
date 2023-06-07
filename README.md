@@ -21,7 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="80" height="80"/&nbsp>
-    <img src="hhttps://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
   </div>
 </div>
 
