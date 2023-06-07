@@ -13,7 +13,7 @@
 - 😁 I have a little more backend knowledge than frontend but I can do both.
 
 <hr>
-<div align="center">
+<div align="left">
   <h3><b>🛠️ languages 🛠️</b></h3><br>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/&nbsp>
