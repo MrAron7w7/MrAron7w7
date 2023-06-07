@@ -15,8 +15,7 @@
 <hr>
 <div align="center">
   <h3><b>🛠️ languages 🛠️</b></h3><br>
-  <div >
-    
+  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="80" height="80"/&nbsp>
