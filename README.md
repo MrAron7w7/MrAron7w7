@@ -1,9 +1,5 @@
-<div id="header" align="center" style={
-     .header{
-     border-radious:20px;
-     }
-     }>
-  <img src="https://scontent.flim9-1.fna.fbcdn.net/v/t39.30808-6/278609968_1339801283156215_8988897822394920588_n.jpg?_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1viXG_JHiasAX_eJgat&_nc_ht=scontent.flim9-1.fna&oh=00_AfBDMo_GQtdZzfIcxY9HXz5IYv3UlVw4K2ptq_nODNLY6A&oe=6485A89D" width="200"/>
+<div id="header" align="center"}>
+  <img src="" width="200"/>
   <h1 align="center">Hi there👋, I'm MrAron7w7</h1>
   <h3 align="center">A passionate 💻backend developer💻 from Perú🇵🇪, I like learning new technologies, I like anime😁 and video games🎮, besides my hobbies are walking🚶, playing basketball🏀 and watching the sunsets🌄 and having fun.</h3>
 
