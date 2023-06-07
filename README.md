@@ -7,8 +7,8 @@
 ---
 
 ### 🤵 About Me:
-- I am a guy who likes to program and create new things🤓.
-- I'm starting in the world of backend programming💻.
-- I am currently learning Java📝.
-- I have a little more backend knowledge than frontend but I can do both😁.
+- 🤓 I am a guy who likes to program and create new things.
+- 💻 I'm starting in the world of backend programming.
+- 📝 I am currently learning Java.
+- 😁 I have a little more backend knowledge than frontend but I can do both.
 
