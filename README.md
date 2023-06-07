@@ -1,4 +1,3 @@
-<hr>
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/112115984?v=4" width="200"/>
   <h1 align="center">Hi there👋, I'm MrAron7w7</h1>
