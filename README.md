@@ -24,6 +24,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON3" alt="PYTHON3" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="80" height="80"/&nbsp>
   </div>
 </div>
 
