@@ -20,8 +20,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="80" height="80"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="80" height="80"/&nbsp>
   </div>
 </div>
 
