@@ -11,7 +11,7 @@
 - 💻 I'm starting in the world of backend programming.
 - 📝 I am currently learning Java.
 - 😁 I have a little more backend knowledge than frontend but I can do both.
-
+<hr>
 <br>
 <div align="center">
   <h3><b>🛠️ languages 🛠️</b></h3><br>
