@@ -12,7 +12,7 @@
 - 📝 I am currently learning Java.
 - 😁 I have a little more backend knowledge than frontend but I can do both.
 <hr>
-<br>
+
 <div align="center">
   <h3><b>🛠️ languages 🛠️</b></h3><br>
   <div>
@@ -22,6 +22,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="80" height="80"/&nbsp>
   </div>
+  <br>
   <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="80" height="80"/&nbsp>
