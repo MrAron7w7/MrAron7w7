@@ -21,7 +21,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="80" height="80"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
+  </div>
+  <div>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON3" alt="PYTHON3" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="80" height="80"/&nbsp>
