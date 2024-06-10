@@ -21,14 +21,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScrip" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NODEJS" alt="NODEJS" width="80" height="80"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="DART" alt="DART" width="80" height="80"/&nbsp>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TAILWINDSS" alt="TAILWINDSS" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUD" alt="GITHUD" width="80" height="80"/&nbsp>
   </div>
   <br>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="ASTRO" alt="ASTRO" width="80" height="80"/&nbsp>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="80" height="80"/&nbsp>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="DART" alt="DART" width="80" height="80"/&nbsp>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="80" height="80"/&nbsp>
   </div>
 </div>
 
